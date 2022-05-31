@@ -1,0 +1,2 @@
+D:\Code\C++\外接檔\TestDll\Debug\TestDll.dll
+D:\Code\C++\外接檔\TestDll\Debug\TestDll.pdb

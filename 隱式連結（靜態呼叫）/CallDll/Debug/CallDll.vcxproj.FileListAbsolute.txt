@@ -1,0 +1,4 @@
+D:\Code\C++\外接檔\CallDll\Debug\CallDll.exe
+D:\Code\C++\外接檔\CallDll\Debug\CallDll.pdb
+D:\Code\C++\外接檔\隱式連結（呼叫）\CallDll\Debug\CallDll.exe
+D:\Code\C++\外接檔\隱式連結（呼叫）\CallDll\Debug\CallDll.pdb
