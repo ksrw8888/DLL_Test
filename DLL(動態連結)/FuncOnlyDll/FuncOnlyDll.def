@@ -1,0 +1,6 @@
+LIBRARY
+EXPORTS
+double_add_double_double=?add@Funcs@@YANNN@Z
+double_maxValue_double_double=?maxValue@Funcs@@YANNN@Z
+double_minValue_double_double=?minValue@Funcs@@YANNN@Z
+double_subtract_double_double=?subtract@Funcs@@YANNN@Z

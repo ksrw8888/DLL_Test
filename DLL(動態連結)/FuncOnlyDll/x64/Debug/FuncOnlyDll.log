@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+  FuncOnlyDll.cpp
+  Generating Code...
+     Creating library D:\Code\C++\外接檔\DLL\FuncOnlyDll\x64\Debug\FuncOnlyDll.lib and object D:\Code\C++\外接檔\DLL\FuncOnlyDll\x64\Debug\FuncOnlyDll.exp
+  FuncOnlyDll.vcxproj -> D:\Code\C++\外接檔\DLL\FuncOnlyDll\x64\Debug\FuncOnlyDll.dll

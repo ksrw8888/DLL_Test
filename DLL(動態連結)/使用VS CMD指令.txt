@@ -1,0 +1,2 @@
+使用此指令可查看dll內部的函數亂碼
+dumpbin -export dll檔案位置

@@ -1,0 +1,4 @@
+D:\Code\C++\外接檔\顯式連結\FuncOnlyDll\Debug\FuncOnlyDll.dll
+D:\Code\C++\外接檔\顯式連結\FuncOnlyDll\Debug\FuncOnlyDll.pdb
+D:\Code\C++\外接檔\DLL\FuncOnlyDll\Debug\FuncOnlyDll.dll
+D:\Code\C++\外接檔\DLL\FuncOnlyDll\Debug\FuncOnlyDll.pdb
